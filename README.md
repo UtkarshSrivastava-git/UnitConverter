@@ -6,7 +6,7 @@ A simple yet powerful Android application that allows users to convert units acr
 
 ## ✨ Features
 
-- ✅ Convert between various categories of units like - temperature , length , weight.
+- ✅ Converts between various categories of units like - temperature , length , weight.
 - 📆 Calculates your age.
 - 🚀 Built with Jetpack Compose for high performance and simplicity
 ---
